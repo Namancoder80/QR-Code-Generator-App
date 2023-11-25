@@ -1,6 +1,7 @@
 # QR Code Generator App
 
 This is a simple web application that allows users to generate QR codes by entering text or a URL.
+<img width="733" alt="Screenshot 2023-11-25 163217" src="https://github.com/Namancoder80/QR-Code-Generator-App/assets/96739382/1aec0717-bff0-4dd0-8350-fda487e4bf9e">
 
 ## HTML (index.html)
 
